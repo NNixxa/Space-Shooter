@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
-  productGUID: a3d05e5f942b376418b1710d1297f526
+  productGUID: 1ae49075aadf6bb4f8355a8ac0e34d1a
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
@@ -587,8 +587,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: c170d7d0-90ee-4c9e-9b9c-30fff17f142a
-  projectName: SpaceGame
+  cloudProjectId: cab7cb44-30e9-44c4-830f-6a60486ce7af
+  projectName: SpaceGame (1)
   organizationId: nixxa
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
